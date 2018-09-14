@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4f347bb-4952-4967-9561-3eaf64b36874" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/angular.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -120,12 +116,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536908585274</updated>
-      <workItem from="1536908586479" duration="81000" />
+      <workItem from="1536908586479" duration="125000" />
     </task>
+    <task id="LOCAL-00001" summary="testime">
+      <created>1536908685437</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536908685437</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81000" />
+    <option name="totallyTimeSpent" value="125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="415" y="2" width="697" height="735" extended-state="0" />
@@ -156,6 +160,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testime" />
+    <option name="LAST_COMMIT_MESSAGE" value="testime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
